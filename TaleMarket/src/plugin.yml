@@ -1,0 +1,8 @@
+main: tr.beyazpolis.talemarket.TaleMarket
+name: TaleMarket
+version: 1.0.0
+author: BeyazPolis
+depend: [TMC-Librarys,TMC-Database,TMC-Ekonomi]
+commands:
+  market: {}
+  reloadmarket: {}
